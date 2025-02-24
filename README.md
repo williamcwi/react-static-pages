@@ -1,8 +1,14 @@
-# React + Vite
+# ReactFacts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is part of the **Learn React JS** course by [freeCodeCamp.org](https://www.freecodecamp.org/). It contains the first project focused on building static pages using React.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The **ReactFacts** page is a static site built with React as part of the introductory project for the React JS course. This project helped in understanding the fundamentals of React components, JSX, and basic styling. It serves as a stepping stone to more complex React applications.
+
+## Course Links
+
+- **YouTube Course:** [Learn React JS](https://www.youtube.com/watch?v=x4rFhThSX04)
+- **Scrimba Course:** [Learn React on Scrimba](https://scrimba.com/learn-react-c0e)
+
+These courses by freeCodeCamp.org provided the guidance and resources needed to build this project.
